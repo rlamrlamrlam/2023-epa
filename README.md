@@ -2,7 +2,7 @@
 
 # 2023 EPA Openscapes Champions Cohort
 
-Welcome to the 2023 EPA Openscapes Champions Cohort! This is a Cohort for the U.S Environmental Protection Agency, Center for Environmental Measurement and Modeling (CEMM).
+Welcome to the 2023 EPA Openscapes Champions Cohort! This is a Cohort for the U.S Environmental Protection Agency, Center for Environmental Measurement and Modeling (CEMM). Learn more about [Openscapes](https://openscapes.org/) and the [EPA CEMM](https://www.epa.gov/aboutepa/about-center-environmental-measurement-and-modeling-cemm).
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
@@ -18,11 +18,12 @@ Agendas are accessible to Cohort participants in our [Cohort Sharepoint Folder](
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
-10/07 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
-10/21 | 2. GitHub Clinic: publishing and project management <br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
-11/04 | 3. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
-11/18 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
-12/02 | 5. Pathways share |  | 
+02/15 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) |  
+03/01 | 2. Pathways Introduction |  | Pathway trailhead; create GitHub accounts 
+03/15 | 3. GitHub Clinic: publishing and project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
+03/29 | 4. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
+04/12 | 5. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
+04/26 | 6. Pathways share |  | 
 
 **Cohort Call Digests** are posted as issues in this repo.
 
