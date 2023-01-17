@@ -52,7 +52,7 @@ Add:
 
 **Gayle Hagler**, EPA
 
-**Jeff Hollister**, EPA
+**Jeff Hollister** (@jhollist), EPA
 
 ## More about Openscapes and the Champions program:
 
