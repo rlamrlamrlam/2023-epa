@@ -20,7 +20,12 @@ This file is written in Markdown, which formats text on the web. For example, wi
 
 We can make words **bold** or *italic*.
 
+*testing italic*
+**testing bold**
+
 ### We can make headers.
+
+### testing headers
 
 We can make lists – *note that lists need a carriage return before list items!*
 
@@ -39,6 +44,9 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](../horst-champions-trailhead.png)
 
+![](..
+
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
-Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes.
+
