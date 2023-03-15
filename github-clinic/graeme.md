@@ -30,8 +30,13 @@ We can make lists – *note that lists need a carriage return before list items!
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
+> [This thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
+
+> Another quote
+
+1. [A **bold** and *italic* link](https://www.google.com)
+2. 
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
