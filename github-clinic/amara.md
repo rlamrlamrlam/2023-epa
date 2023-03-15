@@ -30,6 +30,12 @@ We can make lists – *note that lists need a carriage return before list items!
 2. tamales
 3. cakes
 
+### Tips from the breakout team
+More experienced folks in Git found:
+* Any text file can go to Git (but what about pdfs?)
+* Files < 25 mb can go into git, need an exception for larger files, or keep them local
+* Cannot upload many files, need to load them up in batches
+
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
