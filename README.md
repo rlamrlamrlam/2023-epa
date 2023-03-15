@@ -3,7 +3,7 @@
 # 2023 EPA Openscapes Champions Cohort
 
 Welcome to the 2023 EPA Openscapes Champions Cohort! This is a Cohort for the U.S Environmental Protection Agency, Center for Environmental Measurement and Modeling (CEMM). Learn more about [Openscapes](https://openscapes.org/) and the [EPA CEMM](https://www.epa.gov/aboutepa/about-center-environmental-measurement-and-modeling-cemm).
-
+Happy to be here!
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
 ## Cohort Agendas
