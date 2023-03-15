@@ -20,7 +20,7 @@ This file is written in Markdown, which formats text on the web. For example, wi
 
 We can make words **bold** or *italic*.
 
-Let's try adding a link to the **WSMART** web page (https://www.epa.gov/air-sensor-toolbox/wildfire-smoke-air-monitoring-response-technology-wsmart-pilot)
+Let's try adding a link to the **WSMART** [web page](https://www.epa.gov/air-sensor-toolbox/wildfire-smoke-air-monitoring-response-technology-wsmart-pilot)
 
 ### We can make headers.
 
