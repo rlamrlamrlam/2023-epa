@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make and edit to the text in this file. One idea is to fix this tpyo. 
+Next, make and edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, scroll down to the bottom of this webpage to where it says "Commit Changes". Committing changes has two steps: write a human-readable commit message, and press the green button to commit changes. 
 
@@ -19,6 +19,8 @@ Now let's practice Markdown and commit another edit to this file.
 This file is written in Markdown, which formats text on the web. For example, with Markdown:
 
 We can make words **bold** or *italic*.
+
+Let's try adding a link to the **WSMART** web page (https://www.epa.gov/air-sensor-toolbox/wildfire-smoke-air-monitoring-response-technology-wsmart-pilot)
 
 ### We can make headers.
 
