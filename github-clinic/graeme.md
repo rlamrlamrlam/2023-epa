@@ -36,7 +36,11 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 > Another quote
 
 1. [A **bold** and *italic* link](https://www.google.com)
-2. 
+2. <a href="https://www.google.com/" target="_blank">New tab</a>
+
+### Header
+
+## Two hashtags
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
