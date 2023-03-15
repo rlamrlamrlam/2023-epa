@@ -1,5 +1,8 @@
 # GitHub practice from the browser
 
+![equation](https://latex.codecogs.com/svg.image?{\text{lim}_{(x_{i&plus;1}-x_i)\to&space;0}&space;\Sigma_i&space;(x_{i&plus;1}-x_i)*f(x_i)}&space;)
+
+
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
 
 ## Task 1: Commit an edit from the browser
