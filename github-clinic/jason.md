@@ -22,6 +22,7 @@ We can make words **bold** or *italic*.
 
 ### We can make headers.
 
+## new header
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
