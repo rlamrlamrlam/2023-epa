@@ -28,7 +28,7 @@ We can make lists – *note that lists need a carriage return before list items!
 2. tamales
 3. cakes
 
-###A New Header for a New Horizon 
+### A New Header for a New Horizon 
 
 A SHOPPING LIST
 
